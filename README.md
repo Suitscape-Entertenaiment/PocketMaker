@@ -17,6 +17,8 @@ In addition to having our own block renderer for Blockly:
 
 # Pocket 21
 
+![ico](20261004_225751.png)
+
 Define:
 
 * Simple Logic Blocks
