@@ -1,15 +1,33 @@
 <img src="./icon.png">
 
-Una aplicación web Open Source praa aprender a hacer juegos 3d.
+An open source online software for game development.
 
-# dependencias
+# Information
 
-* Internet (xdddd)
-* Three js 140
-* Blockly
+Type of software: Pocket 21
+Versión: 0.1
 
-# cosas a tomar en cuenta:
+# What is Pocket?
 
-* El editor esta en español.
-* El proyecto esta en desarrollo.
-* El proyecto es puramente para enseñar y yo como dev aprender varias cosas.
+Pocket refers to the PocketMaker rules brand; it defines which blocks are there, what they are for, and so on.
+
+# Pocket 21
+
+Define:
+
+* Simple Logic Blocks
+* Simple and complex math blocks
+* 2D Graphics Drawing
+* Export to HTML5
+* System of Variables and Simple Lists
+* Minimalist Design
+* Visualization of the generated code
+* Everything will be in Immediate Mode, there are no Items
+
+# Credits
+
+* Suitscape Entertainment
+* Google Blockly
+* Font Awesome
+* Bootstrap 5
+* SweetAlert2
