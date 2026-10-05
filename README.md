@@ -11,6 +11,10 @@ Versión: 0.1
 
 Pocket refers to the PocketMaker rules brand; it defines which blocks are there, what they are for, and so on.
 
+In addition to having our own block renderer for Blockly:
+
+![ico](20261004_185920.png)
+
 # Pocket 21
 
 Define:
