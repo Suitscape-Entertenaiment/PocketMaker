@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #3743B9, #4988B9);
+  margin: 0;
+}
+
+#logo {
+  height: 31;
+  width: auto;
+  object-fit: contain;
+}
+
+.canvas {
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.blocklyDiv {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.blocklySvg {
+  border-radius: 10px;
+}
